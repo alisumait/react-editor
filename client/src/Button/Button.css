@@ -1,0 +1,11 @@
+.save-button,
+.delete-button,
+.text-button,
+.submit-button {
+    width: 100%;
+}
+
+.text-button,
+.submit-button {
+    margin-top: 10px;
+}
